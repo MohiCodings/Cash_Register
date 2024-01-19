@@ -4,7 +4,7 @@ Design a cash register drawer function checkCashRegister() that accepts purchase
 
 ## Demo 
 
-
+https://mohicodings.github.io/Cash_Register/
 
 ## Technologies used
 - JavaScript
